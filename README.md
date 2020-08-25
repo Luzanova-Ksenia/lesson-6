@@ -1,3 +1,6 @@
+https://luzanova-ksenia.github.io/lesson-6/
+
+
 # Домашнее задание к уроку 6
 
 ### Верстаем макет.
